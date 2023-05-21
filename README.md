@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Genaro</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend and backend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **New frontend and backend technologies, I am also interested in learning Java.**
 
